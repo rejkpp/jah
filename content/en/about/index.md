@@ -1,17 +1,11 @@
-+++
-title = "About me"
+---
+title: "About"
+description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+menu:
+  main:
+    weight: 1
+---
+{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-type = "blog"
-+++
-
-I'm a **sea sponge** who works as a fry cook at the **Krusty Krab**:
-![](/img/krusty_krab.webp)
-
-The Krusty Krabe is a fast food restaurant known for it's signature burger:
-
-![*The Krabby Patty*](/img/krabby_patty.webp)
-
-Try to make one yourself and you will be as happy as I am.
-![My first Krabby Patty](/img/spongebob-krusty-cook.webp)
-
-You can take a look at the recipe [here](/blog/krabby_patty/).
+_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
