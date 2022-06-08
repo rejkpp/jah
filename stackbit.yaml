@@ -4,7 +4,7 @@ publishDir: ./public
 buildCommand: hugo --gc
 uploadDir: uploads
 staticDir: static
-pagesDir: content
+pagesDir: content/en
 dataDir: data
 models:
   config:
