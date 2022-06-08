@@ -19,7 +19,7 @@ customCSS = [
 	"css/style.css",
 	"css/theme.sass",
 ] # Path relative to assets folder
-customJS = ["js/"] # Path relative to assets folder
+customJS = ["js/custom.js"] # Path relative to assets folder
 # Homepage description
 # For blog page description you can overwrite it
 # in the front matter
