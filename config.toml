@@ -1,6 +1,6 @@
 # Use an empty string if you have multiple domain linking to your website
 # This string is used to generate the absolute URL for your assets.
-#baseURL = 'https://example.com/'
+baseURL = 'https://jah.onrender.com/'
 defaultContentLanguage = 'en'
 # Emoji in markdown files
 enableEmoji = true
@@ -19,7 +19,7 @@ customCSS = [
 ] # Path relative to assets folder
 customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
-# For blog page description you can overwrite it 
+# For blog page description you can overwrite it
 # in the front matter
 description = "Boilerplate website"
 email = "mail@example.com"
@@ -79,27 +79,27 @@ url = "https://facebook.com/"
 [[menu.main]]
 identifier = "home" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/" 
-weight = 10 
+url = "/"
+weight = 10
 
 [[menu.main]]
 identifier = "blog" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/blog/" 
-weight = 20 
+url = "/blog/"
+weight = 20
 
 [[menu.main]]
 identifier = "contact" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contact" 
-weight = 30 
+url = "/#contact"
+weight = 30
 
 # Syntax highlightning
 [markup.highlight]
-guessSyntax = true 
-lineNumbersInTable = true 
+guessSyntax = true
+lineNumbersInTable = true
 noClasses = false # Set to false to use the Pico default theme.
-tabWidth = 2 
+tabWidth = 2
 
 [taxonomies]
 category = "categories"
